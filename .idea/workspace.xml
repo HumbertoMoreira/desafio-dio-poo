@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8795989-1bfd-41ac-b437-d871e4bbbb8e" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/desafio/dominio/Curso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/desafio/dominio/Mentoria.java" afterDir="false" />
+    <list default="true" id="c8795989-1bfd-41ac-b437-d871e4bbbb8e" name="Changes" comment="mentoria e curso">
+      <change afterPath="$PROJECT_DIR$/src/desafio/dominio/Bootcamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafio/dominio/Conteudo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafio/dominio/Dev.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/desafio/dominio/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desafio/dominio/Curso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/desafio/dominio/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desafio/dominio/Mentoria.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +56,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667587722976</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="mentoria e curso">
+      <created>1667596873679</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667596873679</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -69,6 +79,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="mentoria e curso" />
+    <option name="LAST_COMMIT_MESSAGE" value="mentoria e curso" />
   </component>
 </project>
